@@ -15,4 +15,3 @@ for (letter = 'A'; letter <= 'Z'; letter++)
 putchar(letter);
 putchar('\n');
 return (O);
-}
